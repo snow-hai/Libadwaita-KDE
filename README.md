@@ -58,7 +58,7 @@ Based on [Colloid aurorae theme](https://www.pling.com/p/1738680/) and [Nova](ht
 
 ## Kvantum
 <p>
-<img src="Assets/kvan-light.png" alt="Light Kvantum">
+<!-- <img src="Assets/kvan-light.png" alt="Light Kvantum"> -->
 <img src="Assets/kvan-dark.png" alt="Kvantum Kvantum"> 
 </p>
 Based on [KvLibadwaita](https://github.com/GabePoel/KvLibadwaita) 
