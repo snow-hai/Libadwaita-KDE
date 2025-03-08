@@ -4,15 +4,12 @@ This is a work in progress, install scripts, and further things will be added in
 
 ---
 
-## Finished Implementations
-- KColorSchemes
-- Aurorae (dark mode only)
-
 ## To Do
-- Aurorae Light mode
-- Kvantum theme
-- Plasma Style
-- GDM-like SDDM theme
+- ✅ KColorSchemes
+- ✅ Aurorae
+- ❎ Kvantum theme
+- ❎ Plasma Style
+- ❎ GDM-like SDDM theme
 
 ---
 
@@ -49,6 +46,9 @@ Made to Look similar to Libadwaita in colors, while trying to fit in with the st
 ### Main color support
 - Light
 - Dark
+### Button Support
+- Close
+- Show on all desktops
 ### Recomended Settings
 - Button Size: Tiny
 ### Specifics
