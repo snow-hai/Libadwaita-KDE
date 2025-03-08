@@ -17,6 +17,7 @@ This is a work in progress, install scripts, and further things will be added in
 <img src="Assets/kcolor-dark.png" alt="Dark ColorScheme">
 <img src="Assets/kcolor-light.png" alt="Light ColorScheme">
 </p>
+
 ### Main color support
 - Dark
 - Light
@@ -38,6 +39,7 @@ Made to Look similar to Libadwaita in colors, while trying to fit in with the st
 <img src="Assets/aurorae-dark.png" alt="Dark Aurorae">
 <!-- ADD ONCE LIGHT MODE ADDED <img src="Assets/aurorae-light.png" alt="Light Aurorae"> -->
 </p>
+
 ### Main color support
 - Dark
 ### Specifics
