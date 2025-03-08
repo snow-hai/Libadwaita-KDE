@@ -7,9 +7,9 @@ This is a work in progress, install scripts, and further things will be added in
 ## To Do
 - ✅ KColorSchemes
 - ✅ Aurorae
-- ❎ Kvantum theme
-- ❎ Plasma Style
-- ❎ GDM-like SDDM theme
+- ❌ Kvantum theme
+- ❌ Plasma Style
+- ❌ GDM-like SDDM theme
 
 ---
 
