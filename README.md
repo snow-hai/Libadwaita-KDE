@@ -32,8 +32,6 @@ This is a work in progress, install scripts, and further things will be added in
 - Pink
 - Purple
 - Grey
-### Specifics
-Made to Look similar to Libadwaita in colors, while trying to fit in with the standard Libadwaita apps, this can lead to inconsistancies in some cases, but in other cases doing it tho more "exact" way will also lead to inconsistancies, i decided to go with trying to fit most Libadwaita apps, as the inconsistancies coming with it are less annoying.
 
 ---
 
@@ -51,5 +49,3 @@ Made to Look similar to Libadwaita in colors, while trying to fit in with the st
 - Show on all desktops
 ### Recomended Settings
 - Button Size: Tiny
-### Specifics
-The Aurorae is made to look as similar as possible to the Libadwaita headerbar, but making it a little more compact to better fit in with the Plasma Desktop, and to save space.
