@@ -64,7 +64,7 @@ Based on [Colloid aurorae theme](https://www.pling.com/p/1738680/) and [Nova](ht
 <!-- <img src="Assets/kvan-dark.png" alt="Kvantum Kvantum"> -->
 </p>
 
-Based on [KvLibadwaita](https://github.com/GabePoel/KvLibadwaita) 
+Based on [Orchis Kvantum](https://www.pling.com/p/1458909/) 
 
 ### Main color support
 - ✘ Light
@@ -80,4 +80,4 @@ Based on [KvLibadwaita](https://github.com/GabePoel/KvLibadwaita)
 - ✘ Purple
 - ✘ Grey
 
-**Notes:** Needs lots more adjusting, once finished for dark mode, will port to accurate light mode theme too, and all accent colors.
+**Notes:** Needs adjusting of sizing of checkbox and radio buttons (if possible without creating issues), needs adjusting for more round menuitems and more round menubar items.
