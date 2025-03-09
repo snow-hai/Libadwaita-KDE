@@ -5,11 +5,11 @@ This is a work in progress, install scripts, and further things will be added in
 ---
 
 ## To Do
-- ✓ KColorSchemes
-- ✓ Aurorae
-- ✘ Kvantum theme
-- ✘ Plasma Style
-- ✘ GDM-like SDDM theme
+- [x] KColorSchemes
+- [x] Aurorae
+- [] Kvantum theme
+- [] Plasma Style
+- [] GDM-like SDDM theme
 
 ---
 
@@ -22,18 +22,18 @@ This is a work in progress, install scripts, and further things will be added in
 Based on [Libadw Compilation](https://www.pling.com/p/2175326/)
 
 ### Main color support
-- ✓ Dark
-- ✓ Light
+- [x] Dark
+- [x] Light
 ### Accent color support
-- ✓ Default (Blue)
-- ✓ Teal
-- ✓ Green
-- ✓ Yellow
-- ✓ Orange
-- ✓ Red
-- ✓ Pink
-- ✓ Purple
-- ✓ Grey
+- [x] Default (Blue)
+- [x] Teal
+- [x] Green
+- [x] Yellow
+- [x] Orange
+- [x] Red
+- [x] Pink
+- [x] Purple
+- [x] Grey
 
 ---
 
@@ -46,11 +46,11 @@ Based on [Libadw Compilation](https://www.pling.com/p/2175326/)
 Based on [Colloid aurorae theme](https://www.pling.com/p/1738680/) and [Nova](https://www.pling.com/p/1662814/)
 
 ### Main color support
-- ✓ Light
-- ✓ Dark
+- [x] Light
+- [x] Dark
 ### Button Support
-- ✓ Close
-- ✓ Show on all desktops
+- [x] Close
+- [x] Show on all desktops
 ### Recomended Settings
 - Button Size: Tiny
 
@@ -67,17 +67,17 @@ Based on [Colloid aurorae theme](https://www.pling.com/p/1738680/) and [Nova](ht
 Based on [Orchis Kvantum](https://www.pling.com/p/1458909/) 
 
 ### Main color support
-- ✘ Light
-- ✓ Dark
+- [] Light
+- [x] Dark
 ### Accent color support
-- ✓ Default (Blue)
-- ✘ Teal
-- ✘ Green
-- ✘ Yellow
-- ✘ Orange
-- ✘ Red
-- ✘ Pink
-- ✘ Purple
-- ✘ Grey
+- [x] Default (Blue)
+- [] Teal
+- [] Green
+- [] Yellow
+- [] Orange
+- [] Red
+- [] Pink
+- [] Purple
+- [] Grey
 
 **Notes:** Needs adjusting of sizing of checkbox and radio buttons (if possible without creating issues), needs adjusting for more round menuitems and more round menubar items.
