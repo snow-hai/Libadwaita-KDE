@@ -7,7 +7,7 @@ This is a work in progress, install scripts, and further things will be added in
 ## To Do
 - [x] KColorSchemes
 - [x] Aurorae
-- [ ] Kvantum theme
+- [x] Kvantum theme
 - [ ] Plasma Style
 - [ ] GDM-like SDDM theme
 
@@ -54,20 +54,18 @@ Based on [Colloid aurorae theme](https://www.pling.com/p/1738680/) and [Nova](ht
 ### Recomended Settings
 - Button Size: Tiny
 
-**Notes:** Light theme needs adjusting for correct looks when inactive.
-
 ---
 
 ## Kvantum
 <p>
-<!-- <img src="Assets/kvan-light.png" alt="Light Kvantum"> -->
-<!-- <img src="Assets/kvan-dark.png" alt="Kvantum Kvantum"> -->
+<img src="Assets/kvan-light.png" alt="Light Kvantum"> 
+<img src="Assets/kvan-dark.png" alt="Dark Kvantum"> 
 </p>
 
 Based on [Orchis Kvantum](https://www.pling.com/p/1458909/) 
 
 ### Main color support
-- [ ] Light
+- [x] Light
 - [x] Dark
 ### Accent color support
 - [x] Default (Blue)
@@ -80,4 +78,4 @@ Based on [Orchis Kvantum](https://www.pling.com/p/1458909/)
 - [ ] Purple
 - [ ] Grey
 
-**Notes:** Needs adjusting of sizing of checkbox and radio buttons (if possible without creating issues), needs adjusting for more round menuitems and more round menubar items.
+**Notes:** Needs more accent colors added, and some updates for menuitems if possible.
