@@ -4,7 +4,7 @@
    height="1e3"
    version="1"
    id="svg434"
-   sodipodi:docname="LibadwaitaKDEDark.svg"
+   sodipodi:docname="Libadwaita-KDE-DefaultDark.svg"
    inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -20,9 +20,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.56144278"
-     inkscape:cx="107.75809"
-     inkscape:cy="615.37883"
+     inkscape:zoom="12.704"
+     inkscape:cx="89.538729"
+     inkscape:cy="110.71316"
      inkscape:window-width="1920"
      inkscape:window-height="1027"
      inkscape:window-x="0"
@@ -1060,9 +1060,9 @@
      style="fill:#3584e4;fill-opacity:1" />
   <path
      id="header-focused"
-     d="m108 104.88h-6v6h6z"
-     fill="#fff"
-     opacity=".08" />
+     d="m 106.74055,104.56514 h -6 v 6 h 6 z"
+     fill="#ffffff"
+     opacity="0.08" />
   <g
      id="focus-left"
      transform="matrix(.95208 0 0 1 11.535 -19.236)"
@@ -3405,39 +3405,48 @@
   <path
      id="header-normal-bottom"
      d="m78 116.88h-6v6h6z"
-     fill="#242424" />
+     fill="#242424"
+     style="fill:#242424;fill-opacity:1" />
   <path
      id="header-normal-bottomleft"
      d="m84 116.88h-6v6h6z"
-     fill="#242424" />
+     fill="#242424"
+     style="fill:#242424;fill-opacity:1" />
   <path
      id="header-normal-bottomright"
      d="m90 116.88h-6v6h6z"
-     fill="#242424" />
+     fill="#242424"
+     style="fill:#242424;fill-opacity:1" />
   <path
      id="header-normal-left"
      d="m90 110.88v-6h-6v6z"
-     opacity=".001" />
+     opacity=".001"
+     style="fill:#242424;fill-opacity:1" />
   <path
      id="header-normal-right"
      d="m84 110.88v-6h-6v6z"
-     opacity=".001" />
+     opacity=".001"
+     style="fill:#242424;fill-opacity:1" />
   <path
      id="header-normal-top"
      d="m78 110.88h-6v6h6z"
-     fill="#242424" />
+     fill="#242424"
+     style="fill:#242424;fill-opacity:1" />
   <path
      id="header-normal-topright"
      d="m84 110.88h-6v6h6z"
-     fill="#242424" />
+     fill="#242424"
+     style="fill:#242424;fill-opacity:1" />
   <path
      id="header-normal-topleft"
      d="m90 110.88h-6v6h6z"
-     fill="#242424" />
+     fill="#242424"
+     style="fill:#242424;fill-opacity:1" />
   <path
      id="header-normal"
      d="m78 110.88v-6h-6v6z"
-     fill="#3a3a3a" />
+     fill="#3a3a3a"
+     style="fill:#242424;fill-opacity:1" />
   <path
      id="header-separator"
      d="m72 104.88h-6v6h6z"

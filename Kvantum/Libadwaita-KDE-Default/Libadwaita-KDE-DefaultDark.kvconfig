@@ -84,7 +84,7 @@ light.color=#535353
 mid.light.color=#474747
 dark.color=#282828
 mid.color=#323232
-highlight.color=#3490e7
+highlight.color=#3584e4
 inactive.highlight.color=#3a474e
 text.color=#dfdfdf
 window.text.color=#dfdfdf
@@ -92,7 +92,7 @@ button.text.color=#dfdfdf
 disabled.text.color=#696969
 tooltip.text.color=#efefef
 highlight.text.color=#fefdfe
-link.color=#3490e7
+link.color=#3584e4
 link.visited.color=#E040FB
 progress.indicator.text.color=#dfdfdf
 
@@ -449,10 +449,10 @@ text.margin.left=6
 text.margin.right=6
 frame.top=5
 frame.bottom=5
-frame.left=15
-frame.right=15
+frame.left=13
+frame.right=13
 text.bold=false
-frame.expansion=2
+frame.expansion=0
 
 [MenuBar]
 inherits=PanelButtonCommand

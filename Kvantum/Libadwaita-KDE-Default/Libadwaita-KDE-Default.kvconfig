@@ -449,8 +449,8 @@ text.margin.left=6
 text.margin.right=6
 frame.top=5
 frame.bottom=5
-frame.left=15
-frame.right=15
+frame.left=13
+frame.right=13
 text.bold=false
 frame.expansion=2
 
