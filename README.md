@@ -21,10 +21,10 @@ This is a work in progress, install scripts, and further things will be added in
 
 Based on [Libadw Compilation](https://www.pling.com/p/2175326/)
 
-### Main color support
+### Main colour support
 - [x] Dark
 - [x] Light
-### Accent color support
+### Accent colour support
 - [x] Default (Blue)
 - [x] Teal
 - [x] Green
@@ -45,7 +45,7 @@ Based on [Libadw Compilation](https://www.pling.com/p/2175326/)
 
 Based on [Colloid aurorae theme](https://www.pling.com/p/1738680/) and [Nova](https://www.pling.com/p/1662814/)
 
-### Main color support
+### Main colour support
 - [x] Light
 - [x] Dark
 ### Button Support
@@ -64,17 +64,17 @@ Based on [Colloid aurorae theme](https://www.pling.com/p/1738680/) and [Nova](ht
 
 Based on [Orchis Kvantum](https://www.pling.com/p/1458909/) 
 
-### Main color support
+### Main colour support
 - [x] Light
 - [x] Dark
-### Accent color support
+### Accent colour support
 - [x] Default (Blue)
 - [ ] Teal
 - [ ] Green
 - [ ] Yellow
 - [ ] Orange
 - [ ] Red
-- [ ] Pink
+- [x] Pink
 - [ ] Purple
 - [ ] Grey
 
