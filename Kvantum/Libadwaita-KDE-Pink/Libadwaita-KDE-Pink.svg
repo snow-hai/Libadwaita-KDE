@@ -20,9 +20,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="16"
-     inkscape:cx="378.40624"
-     inkscape:cy="222.28124"
+     inkscape:zoom="18.044444"
+     inkscape:cx="88.863916"
+     inkscape:cy="113.80234"
      inkscape:window-width="1920"
      inkscape:window-height="1027"
      inkscape:window-x="0"
@@ -319,78 +319,78 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter1"
-       x="-0.3"
-       y="-0.3"
-       width="1.6"
-       height="1.6">
+       x="-0.43199999"
+       y="-0.43199999"
+       width="1.864"
+       height="1.864">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="1.25"
+         stdDeviation="1.8"
          id="feGaussianBlur1" />
     </filter>
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter2"
-       x="-0.2998151"
-       y="-0.2998151"
-       width="1.5996302"
-       height="1.5996302">
+       x="-0.432"
+       y="-0.432"
+       width="1.864"
+       height="1.864">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="2.748305"
+         stdDeviation="3.96"
          id="feGaussianBlur2" />
     </filter>
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter3"
-       x="-0.3"
-       y="-0.3"
-       width="1.6"
-       height="1.6">
+       x="-0.43199999"
+       y="-0.43199999"
+       width="1.864"
+       height="1.864">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="1.25"
+         stdDeviation="1.8"
          id="feGaussianBlur3" />
     </filter>
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter4"
-       x="-0.3"
-       y="-0.3"
-       width="1.6"
-       height="1.6">
+       x="-0.432"
+       y="-0.432"
+       width="1.864"
+       height="1.864">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="2.75"
+         stdDeviation="3.96"
          id="feGaussianBlur4" />
     </filter>
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter5"
-       x="-0.3"
-       y="-0.3"
-       width="1.6"
-       height="1.6">
+       x="-0.432"
+       y="-0.432"
+       width="1.864"
+       height="1.864">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="2.75"
+         stdDeviation="3.96"
          id="feGaussianBlur5" />
     </filter>
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter6"
-       x="-0.3"
-       y="-0.3"
-       width="1.6"
-       height="1.6">
+       x="-0.432"
+       y="-0.432"
+       width="1.864"
+       height="1.864">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="2.75"
+         stdDeviation="3.96"
          id="feGaussianBlur6" />
     </filter>
   </defs>
@@ -3112,7 +3112,7 @@
        r="5"
        fill="#d56199"
        id="circle154"
-       style="fill:#000000;fill-opacity:0.40000001;filter:url(#filter1)" />
+       style="fill:#000000;fill-opacity:0.30000001;filter:url(#filter1)" />
     <circle
        cx="327.98557"
        cy="416.04266"
@@ -3138,7 +3138,7 @@
        fill="#d56199"
        opacity=".3"
        id="circle155"
-       style="fill:#000000;fill-opacity:0.40000001;opacity:1;filter:url(#filter4)" />
+       style="fill:#000000;fill-opacity:0.30000001;opacity:1;filter:url(#filter4)" />
     <circle
        cx="372.0032"
        cy="416.01212"
@@ -3165,7 +3165,7 @@
        fill="#d56199"
        opacity=".2"
        id="circle157"
-       style="fill:#000000;fill-opacity:0.40000001;opacity:1;filter:url(#filter2)" />
+       style="fill:#000000;fill-opacity:0.30190709;opacity:1;filter:url(#filter2)" />
     <circle
        cx="350.02493"
        cy="415.98001"
@@ -3211,7 +3211,7 @@
        r="5"
        fill="#d56199"
        id="circle154-0"
-       style="fill:#000000;fill-opacity:0.40000001;filter:url(#filter3)" />
+       style="fill:#000000;fill-opacity:0.30000001;filter:url(#filter3)" />
     <circle
        cx="327.96225"
        cy="438.00693"
@@ -3237,7 +3237,7 @@
        fill="#d56199"
        opacity=".2"
        id="circle161"
-       style="opacity:1;fill:#000000;fill-opacity:0.40000001;filter:url(#filter5)" />
+       style="opacity:1;fill:#000000;fill-opacity:0.30000001;filter:url(#filter5)" />
     <circle
        cx="349.97833"
        cy="438.0282"
@@ -3264,7 +3264,7 @@
        fill="#d56199"
        opacity=".3"
        id="circle162"
-       style="opacity:1;fill:#000000;fill-opacity:0.40000001;filter:url(#filter6)" />
+       style="opacity:1;fill:#000000;fill-opacity:0.30000001;filter:url(#filter6)" />
     <circle
        cx="372.02493"
        cy="438.00015"
@@ -3956,17 +3956,17 @@
      id="header-normal-bottom"
      d="m78 116.88h-6v6h6z"
      fill="#242424"
-     style="fill:#f2f2f2;fill-opacity:1" />
+     style="fill:#ffffff;fill-opacity:1" />
   <path
      id="header-normal-bottomleft"
      d="m84 116.88h-6v6h6z"
      fill="#242424"
-     style="fill:#f2f2f2;fill-opacity:1" />
+     style="fill:#ffffff;fill-opacity:1" />
   <path
      id="header-normal-bottomright"
      d="m90 116.88h-6v6h6z"
      fill="#242424"
-     style="fill:#f2f2f2;fill-opacity:1" />
+     style="fill:#ffffff;fill-opacity:1" />
   <path
      id="header-normal-left"
      d="m90 110.88v-6h-6v6z"
@@ -3979,17 +3979,17 @@
      id="header-normal-top"
      d="m78 110.88h-6v6h6z"
      fill="#242424"
-     style="fill:#f2f2f2;fill-opacity:1" />
+     style="fill:#ffffff;fill-opacity:1" />
   <path
      id="header-normal-topright"
      d="m84 110.88h-6v6h6z"
      fill="#242424"
-     style="fill:#f2f2f2;fill-opacity:1" />
+     style="fill:#ffffff;fill-opacity:1" />
   <path
      id="header-normal-topleft"
      d="m90 110.88h-6v6h6z"
      fill="#242424"
-     style="fill:#f2f2f2;fill-opacity:1" />
+     style="fill:#ffffff;fill-opacity:1" />
   <path
      id="header-normal"
      d="m78 110.88v-6h-6v6z"
@@ -3999,7 +3999,7 @@
      id="header-separator"
      d="m72 104.88h-6v6h6z"
      fill="#242424"
-     style="fill:#eeeeee;fill-opacity:1" />
+     style="fill:#ffffff;fill-opacity:1" />
   <path
      id="menu-normal"
      d="m 118.00311,481.00175 h 48 v 48 h -48 z"

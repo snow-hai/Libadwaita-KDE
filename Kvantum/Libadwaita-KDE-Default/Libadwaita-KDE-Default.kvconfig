@@ -84,7 +84,7 @@ light.color=#f2f2f2
 mid.light.color=#dddddd
 dark.color=#f9f9f9
 mid.color=#b6b6b6
-highlight.color=#3490e7
+highlight.color=#d56199
 inactive.highlight.color=#9ac1f1
 text.color=#2e2e2e
 window.text.color=#2e2e2e
@@ -92,7 +92,7 @@ button.text.color=#2e2e2e
 disabled.text.color=#919191
 tooltip.text.color=#ffffff
 highlight.text.color=#ffffff
-link.color=#3490e7
+link.color=#d56199
 link.visited.color=#E040FB
 progress.indicator.text.color=#2e2e2e
 

@@ -4,7 +4,7 @@
    height="1e3"
    version="1"
    id="svg434"
-   sodipodi:docname="LibadwaitaKDE.svg"
+   sodipodi:docname="Libadwaita-KDE-Pink.svg"
    inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -20,9 +20,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="156.62415"
-     inkscape:cy="809.99081"
+     inkscape:zoom="16"
+     inkscape:cx="378.40624"
+     inkscape:cy="222.28124"
      inkscape:window-width="1920"
      inkscape:window-height="1027"
      inkscape:window-x="0"
@@ -6496,7 +6496,7 @@
        y="126.02616"
        ry="0" />
     <rect
-       style="fill:#4990e7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:3.3;stroke-opacity:1;paint-order:fill markers stroke"
+       style="fill:#dc78a8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:3.3;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect1988-3-0"
        width="16"
        height="16"
@@ -6544,7 +6544,7 @@
        y="126.00556"
        ry="0" />
     <rect
-       style="fill:#4990e7;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:3.3;paint-order:fill markers stroke"
+       style="fill:#dc78a8;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:3.3;paint-order:fill markers stroke"
        id="rect1988-3-2-2-7"
        width="16"
        height="16"
