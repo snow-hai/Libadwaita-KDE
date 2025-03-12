@@ -78,4 +78,4 @@ Based on [Orchis Kvantum](https://www.pling.com/p/1458909/)
 - [ ] Purple
 - [ ] Grey
 
-**Notes:** Needs more accent colors added, and some updates for menuitems if possible.
+**Notes:** Needs more accent colors added.
