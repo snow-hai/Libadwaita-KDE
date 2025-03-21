@@ -1,6 +1,7 @@
 # Libadwaita KDE 
 A attempt at porting the Libadwaita look to KDE/Qt.
 This is a work in progress, install scripts, and further things will be added in the future.
+A SDDM theme isnt planed anymore, just use GDM.
 
 ---
 
@@ -8,8 +9,7 @@ This is a work in progress, install scripts, and further things will be added in
 - [x] KColorSchemes
 - [x] Aurorae
 - [x] Kvantum theme
-- [ ] Plasma Style
-- [ ] GDM-like SDDM theme
+- [x] Plasma Style
 
 ---
 
@@ -79,3 +79,15 @@ Based on [Orchis Kvantum](https://www.pling.com/p/1458909/)
 - [ ] Grey
 
 **Notes:** Needs more accent colors added.
+
+---
+
+## Plasma Style
+Based on [Nova](https://www.pling.com/p/1659120/) and [Colloid](https://www.pling.com/p/1738718/)
+I didnt do much on this except swap out a few files.
+
+### Main colour support
+- [x] Automatic
+
+### Accent colour support
+- [x] Automatic
