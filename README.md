@@ -13,8 +13,6 @@ A SDDM theme isnt planed anymore, just use GDM.
 
 ---
 
-## Rounded Corners
-I recomend using [KDE-Rounded-Corners](https://github.com/matinlotfali/KDE-Rounded-Corners) to get all window corners to be round, this will make the theme look more accurate to libadwaita.
 
 ## KColorSchemes
 <p>
@@ -56,6 +54,10 @@ Based on [Colloid aurorae theme](https://www.pling.com/p/1738680/) and [Nova](ht
 - [x] Show on all desktops
 ### Recomended Settings
 - Button Size: Tiny
+
+### Rounded Corners
+I recomend using [KDE-Rounded-Corners](https://github.com/matinlotfali/KDE-Rounded-Corners) to get all window corners to be round, this will make the theme look more accurate to libadwaita.
+**Note:** This will require adjustments to the border colors are radius to look correct. Alternativly you can use the default "Breeze" aurorae and simply make it bigger, as it wont have the issue of needing a lot of adjustments.
 
 ---
 
