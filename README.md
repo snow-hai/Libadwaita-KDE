@@ -13,6 +13,9 @@ A SDDM theme isnt planed anymore, just use GDM.
 
 ---
 
+## Rounded Corners
+I recomend using [KDE-Rounded-Corners](https://github.com/matinlotfali/KDE-Rounded-Corners) to get all window corners to be round, this will make the theme look more accurate to libadwaita.
+
 ## KColorSchemes
 <p>
 <img src="Assets/kcolor-light.png" alt="Light ColorScheme">
@@ -91,3 +94,5 @@ I didnt do much on this except swap out a few files.
 
 ### Accent colour support
 - [x] Automatic
+
+**Notes:** Panel needs to be made black to fit with the GNOME panel.
