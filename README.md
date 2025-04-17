@@ -56,8 +56,7 @@ Based on [Colloid aurorae theme](https://www.pling.com/p/1738680/) and [Nova](ht
 - Button Size: Tiny
 
 ### Rounded Corners
-I recomend using [KDE-Rounded-Corners](https://github.com/matinlotfali/KDE-Rounded-Corners) to get all window corners to be round, this will make the theme look more accurate to libadwaita.
-**Note:** This will require adjustments to the border colors are radius to look correct. Alternativly you can use the default "Breeze" aurorae and simply make it bigger, as it wont have the issue of needing a lot of adjustments.
+I recomend using [KDE-Rounded-Corners](https://github.com/matinlotfali/KDE-Rounded-Corners) to get all window corners to be round, this will make the theme look more accurate to libadwaita. **Note:** you cant use the custom aurorae with this, if you accept the tradeoff between button accuracy and rounding accuracy.
 
 ---
 
