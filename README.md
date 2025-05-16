@@ -10,9 +10,13 @@ A SDDM theme isnt planed anymore, just use GDM.
 - [x] Aurorae
 - [x] Kvantum theme
 - [x] Plasma Style
+- [x] Fcitx5 Theme
 
 ---
 
+### General Notes
+- The themes are made with the intent of looking like libadwaita, while also containing a little bit more color.
+- The themes are made with the intent that you adjust them to your prefference 
 
 ## KColorSchemes
 <p>
@@ -97,3 +101,23 @@ I didnt do much on this except swap out a few files.
 - [x] Automatic
 
 **Notes:** Panel needs to be made black to fit with the GNOME panel.
+
+## Fcitx5 Theme
+Not really based on anything.
+ 
+### Main colorour support
+- [ ] Light
+- [x] Dark
+ 
+### Accent colour support
+- [ ] Default (Blue)
+- [ ] Teal
+- [ ] Green
+- [x] Yellow
+- [ ] Orange
+- [ ] Red
+- [ ] Pink
+- [ ] Purple
+- [ ] Grey
+
+**Notes:** Coloration might not be perfect, cant really be bothered though, considering how few will even use this.
