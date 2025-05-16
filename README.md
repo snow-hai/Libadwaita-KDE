@@ -103,6 +103,9 @@ I didnt do much on this except swap out a few files.
 **Notes:** Panel needs to be made black to fit with the GNOME panel.
 
 ## Fcitx5 Theme
+<p>
+  <img src="Assets/fcitx5-dark.png" alt="Dark Fcitx5 Theme">
+</p>
 Not really based on anything.
  
 ### Main colorour support
