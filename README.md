@@ -6,12 +6,13 @@ A SDDM theme isnt planed anymore, just use GDM.
 ---
 
 ## To Do
-- [x] KColorSchemes
-- [x] Aurorae
-- [x] Kvantum theme
-- [x] Plasma Style
-- [x] Fcitx5 Theme
+- [x] KColorSchemes (needs corrections)*
+- [x] Aurorae (needs corrections)*
+- [x] Kvantum theme (needs corrections)*
+- [x] Plasma Style (needs corrections)*
+- [x] Fcitx5 Theme (needs corrections)*
 
+* libadwaita colors have slightly changed, themes will need adjusting.
 ---
 
 ### General Notes
