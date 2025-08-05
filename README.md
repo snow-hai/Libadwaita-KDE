@@ -1,4 +1,6 @@
 # Libadwaita KDE 
+**This project is currently inactive. Its unclear if/when i will pick it up again. If you want to add missing colorschemes/correct existing things youre very much welcome to.**
+
 A attempt at porting the Libadwaita look to KDE/Qt.
 This is a work in progress, install scripts, and further things will be added in the future.
 A SDDM theme isnt planed anymore, just use GDM.
