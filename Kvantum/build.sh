@@ -140,9 +140,11 @@ export built_kvconf=$(sed \
     > "./$build_dir/$build_dir.kvconfig"
 )
 
-if [ $3 == "--install" ]; then
-    cp -r "./$build_dir/" "$KVCONFIG_DIR"
-    rm -r "./$build_dir/"
-else
+if [ -z "$3" ]; then
     exit 0
+else if [ "$3" == "--install" ]; then
+    cp -r "./$build_dir/" "$KVCONFIG_DIR/"
+    rm -r "./$build_dir/"
+    exit 0
+fi
 fi
