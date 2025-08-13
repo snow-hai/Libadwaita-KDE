@@ -2,7 +2,17 @@
 
 A attempt at porting the Libadwaita look to KDE/Qt.
 This is a work in progress, install scripts, and further things will be added in the future.
-A SDDM theme isnt planed anymore, just use GDM.
+
+---
+
+### Next Steps
+- Building of the following Themes is planned to be nearly fully automated
+  - KColorSchemes
+  - Kvantum
+  - Fcitx5
+- More accuracy in the Plasma Style
+- Finish all remaining colorschemes/accent colors.
+- *Once above is done* Make a unified install script that runs builds for everything.
 
 ---
 
@@ -12,11 +22,11 @@ A SDDM theme isnt planed anymore, just use GDM.
 ---
 
 ## To Do
-- [x] KColorSchemes (needs corrections)*
-- [x] Aurorae (needs corrections)*
-- [x] Kvantum theme (needs corrections)*
-- [x] Plasma Style (needs corrections)*
-- [x] Fcitx5 Theme (needs corrections)* <br> <br>
+- [ ] KColorSchemes (needs corrections)*
+- [ ] Aurorae (needs corrections)*
+- [ ] Kvantum theme (needs corrections)*
+- [ ] Plasma Style (needs corrections)*
+- [ ] Fcitx5 Theme (needs corrections)* <br> <br>
 \* libadwaita colors have slightly changed, themes will need adjusting.
 ---
 
