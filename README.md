@@ -3,6 +3,7 @@
 A attempt at porting the Libadwaita look to KDE/Qt.
 This is a work in progress, install scripts, and further things will be added in the future.
 A SDDM theme isnt planed anymore, just use GDM.
+
 ---
 
 **Repositories:** [GitLab](https://gitlab.com/sabaneko/Libadwaita-KDE) [GitHub](https://github.com/nukusaba/Libadwaita-KDE). These repositories are automaticaly mirrored. However if you want to contribute please do so on the GitLab.
