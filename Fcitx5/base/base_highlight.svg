@@ -4,8 +4,8 @@
    height="30"
    version="1.1"
    id="svg6"
-   sodipodi:docname="highlight.svg"
-   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="base_highlight.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    viewBox="0 0 60 60"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -59,10 +59,10 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="22.627417"
-     inkscape:cx="16.30765"
-     inkscape:cy="14.56198"
-     inkscape:window-width="1918"
-     inkscape:window-height="1005"
+     inkscape:cx="16.064582"
+     inkscape:cy="14.584077"
+     inkscape:window-width="1912"
+     inkscape:window-height="994"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -80,5 +80,5 @@
      sodipodi:type="rect"
      d="m 26.000001,10.000001 h 8 a 16,16 45 0 1 16,16 v 8 a 16,16 135 0 1 -16,16 h -8 a 16,16 45 0 1 -16,-16 v -8 a 16,16 135 0 1 16,-16 z"
      inkscape:path-effect="#path-effect998"
-     style="opacity:0.3;fill:#ba8054;fill-opacity:1" />
+     style="opacity:1;fill:#000000;fill-opacity:1" />
 </svg>
