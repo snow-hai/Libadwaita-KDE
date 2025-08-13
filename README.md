@@ -12,9 +12,8 @@ A SDDM theme isnt planed anymore, just use GDM.
 - [x] Aurorae (needs corrections)*
 - [x] Kvantum theme (needs corrections)*
 - [x] Plasma Style (needs corrections)*
-- [x] Fcitx5 Theme (needs corrections)*
-
-* libadwaita colors have slightly changed, themes will need adjusting.
+- [x] Fcitx5 Theme (needs corrections)* <br> <br>
+\* libadwaita colors have slightly changed, themes will need adjusting.
 ---
 
 ### General Notes
