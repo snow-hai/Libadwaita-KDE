@@ -121,6 +121,7 @@ I didnt do much on this except swap out a few files.
 ## Fcitx5 Theme
 <p>
   <img src="Assets/fcitx5-dark.png" alt="Dark Fcitx5 Theme">
+  <img src="Assets/fcitx5-light.png" alt="Light Fcitx5 Theme">
 </p>
 Not really based on anything.
  
