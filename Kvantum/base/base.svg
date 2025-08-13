@@ -20,9 +20,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="5.6568543"
-     inkscape:cx="413.74585"
-     inkscape:cy="189.50462"
+     inkscape:zoom="2.8284273"
+     inkscape:cx="380.24665"
+     inkscape:cy="312.54118"
      inkscape:window-width="1912"
      inkscape:window-height="994"
      inkscape:window-x="0"
@@ -32,6 +32,12 @@
      showguides="false" />
   <defs
      id="defs4">
+    <rect
+       x="347.89652"
+       y="255.61909"
+       width="75.572034"
+       height="16.440232"
+       id="rect1" />
     <linearGradient
        id="linearGradient12">
       <stop
@@ -3123,7 +3129,7 @@
        r="5"
        fill="#3584e4"
        id="circle154-3"
-       style="fill:#ffffff;fill-opacity:1" />
+       style="fill:#fefefe;fill-opacity:1" />
   </g>
   <g
      id="slidercursor-tickless-pressed"
@@ -3150,7 +3156,7 @@
        fill="#3584e4"
        opacity="0.3"
        id="circle155-5"
-       style="fill:#ffffff;fill-opacity:1;opacity:1" />
+       style="fill:#fefefe;fill-opacity:1;opacity:1" />
   </g>
   <g
      id="slidercursor-tickless-focused"
@@ -3177,7 +3183,7 @@
        fill="#3584e4"
        opacity="0.2"
        id="circle157-6"
-       style="fill:#ffffff;fill-opacity:1;opacity:1" />
+       style="fill:#fefefe;fill-opacity:1;opacity:1" />
   </g>
   <g
      id="slidercursor-tickless-disabled"
@@ -3222,7 +3228,7 @@
        r="5"
        fill="#3584e4"
        id="circle154-0-7"
-       style="fill:#ffffff;fill-opacity:1" />
+       style="fill:#fefefe;fill-opacity:1" />
   </g>
   <g
      id="slidercursor-focused"
@@ -3249,7 +3255,7 @@
        fill="#3584e4"
        opacity="0.2"
        id="circle161-3"
-       style="fill:#ffffff;fill-opacity:1;opacity:1" />
+       style="fill:#fefefe;fill-opacity:1;opacity:1" />
   </g>
   <g
      id="slidercursor-pressed"
@@ -3276,7 +3282,7 @@
        fill="#3584e4"
        opacity="0.3"
        id="circle162-5"
-       style="fill:#ffffff;fill-opacity:1;opacity:1" />
+       style="fill:#fefefe;fill-opacity:1;opacity:1" />
   </g>
   <g
      id="slidercursor-disabled"
@@ -7447,4 +7453,22 @@
        style="opacity:0.16;fill:#ffffff;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:3.3;paint-order:fill markers stroke"
        d="M 332.99987 112.99921 C 330.78387 112.99921 328.99987 114.78321 328.99987 116.99921 L 328.99987 124.99921 C 328.99987 127.21521 330.78387 128.99921 332.99987 128.99921 L 340.99987 128.99921 C 343.21587 128.99921 344.99987 127.21521 344.99987 124.99921 L 344.99987 116.99921 C 344.99987 114.78321 343.21587 112.99921 340.99987 112.99921 L 332.99987 112.99921 z M 332.99987 114.99921 L 340.99987 114.99921 C 342.10787 114.99921 342.99987 115.89121 342.99987 116.99921 L 342.99987 124.99921 C 342.99987 126.10721 342.10787 126.99921 340.99987 126.99921 L 332.99987 126.99921 C 331.89187 126.99921 330.99987 126.10721 330.99987 124.99921 L 330.99987 116.99921 C 330.99987 115.89121 331.89187 114.99921 332.99987 114.99921 z " />
   </g>
+  <text
+     xml:space="preserve"
+     id="text1"
+     style="fill:#ff0000;text-orientation:auto;stroke-linecap:round;-inkscape-font-specification:'Noto Sans Bold';font-family:'Noto Sans';stroke-linejoin:round;stroke-width:28.9;font-weight:bold;stroke:#ff0000;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1);font-style:normal;font-stretch:normal;font-variant:normal" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.66667px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:28.9;stroke-linecap:round;stroke-linejoin:round"
+     x="339.15909"
+     y="262.54156"
+     id="text2"><tspan
+       sodipodi:role="line"
+       id="tspan2"
+       x="339.15909"
+       y="262.54156">note: these are note completly white to prevent </tspan><tspan
+       sodipodi:role="line"
+       x="339.15909"
+       y="270.87491"
+       id="tspan3">them form  being edited by the build script</tspan></text>
 </svg>
