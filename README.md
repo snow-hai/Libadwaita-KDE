@@ -26,7 +26,7 @@ This is a work in progress, install scripts, and further things will be added in
 - [ ] Aurorae (needs corrections)*
 - [x] Kvantum theme 
 - [ ] Plasma Style (needs corrections)*
-- [ ] Fcitx5 Theme (needs corrections)* <br> <br>
+- [x] Fcitx5 Theme <br> <br>
 \* libadwaita colors have slightly changed, themes will need adjusting.
 ---
 
@@ -102,7 +102,7 @@ Based on [Orchis Kvantum](https://www.pling.com/p/1458909/)
 - [x] Purple
 - [x] Grey
 
-**Notes:** `./build.sh [light | dark] [accent] [--install (not required)]`
+**Notes:** `./build.sh [light | dark] [accent] [--install (optional)]`
 
 ---
 
@@ -125,18 +125,7 @@ I didnt do much on this except swap out a few files.
 Not really based on anything.
  
 ### Main colorour support
-- [ ] Light
+- [x] Light
 - [x] Dark
- 
-### Accent colour support
-- [ ] Default (Blue)
-- [ ] Teal
-- [ ] Green
-- [x] Yellow
-- [ ] Orange
-- [ ] Red
-- [ ] Pink
-- [ ] Purple
-- [ ] Grey
 
-**Notes:** Coloration might not be perfect, cant really be bothered though, considering how few will even use this.
+**Notes:** `./build.sh [light | dark] [--install (optional)]`
