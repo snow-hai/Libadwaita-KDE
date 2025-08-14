@@ -4,7 +4,7 @@
    height="310"
    id="svg3642"
    sodipodi:version="0.32"
-   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    sodipodi:docname="decoration.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
@@ -22,15 +22,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="-20.506097"
-     inkscape:cy="370.52395"
+     inkscape:zoom="4"
+     inkscape:cx="505.375"
+     inkscape:cy="135.5"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1026"
+     inkscape:window-width="1912"
+     inkscape:window-height="994"
      inkscape:window-x="0"
      inkscape:window-y="0"
      width="48px"
@@ -268,7 +268,8 @@
          class="ColorScheme-HeaderBackground"
          fill="currentColor"
          d="m 470,200 v 86 h 145 v -86 z"
-         id="path40329" />
+         id="path40329"
+         style="fill:#222226;fill-opacity:1" />
     </g>
     <g
        transform="translate(-25,-4.000015)"
@@ -305,7 +306,8 @@
          id="rect5073-4-9-6"
          class="ColorScheme-HeaderBackground"
          fill="currentColor"
-         d="m 313,201.063 c -6.648,0 -12,5.352 -12,12 v 17.93555 0.0644 h 29 v -30 z" />
+         d="m 313,201.063 c -6.648,0 -12,5.352 -12,12 v 17.93555 0.0644 h 29 v -30 z"
+         style="fill:#222226;fill-opacity:1" />
       <path
          id="path202"
          style="opacity:0.75;fill:#404040;fill-opacity:1;stroke:none"
@@ -459,7 +461,8 @@
        class="ColorScheme-HeaderBackground"
        fill="currentColor"
        d="m 110,200 v 86 h 145 v -86 z"
-       id="decoration-center" />
+       id="decoration-center"
+       style="fill:#2e2e32;fill-opacity:1" />
     <g
        id="decoration-top"
        transform="translate(-215,-5.99995)">
@@ -478,7 +481,8 @@
          class="ColorScheme-HeaderBackground"
          fill="currentColor"
          d="m 325,175.99994 v 30.00002 h 145 v -30.00002 z"
-         id="path6092-3" />
+         id="path6092-3"
+         style="fill:#2e2e32;fill-opacity:1" />
     </g>
     <g
        id="decoration-left"
@@ -497,7 +501,8 @@
          fill="currentColor"
          d="m 576,121 v 86 h 29 v -86 z"
          id="path6339-9"
-         transform="translate(-255.125,76)" />
+         transform="translate(-255.125,76)"
+         style="fill:#2e2e32;fill-opacity:1" />
     </g>
     <g
        id="decoration-inactive-bottom"
@@ -533,7 +538,8 @@
          class="ColorScheme-HeaderBackground"
          fill="currentColor"
          d="m 325,176 v 30 h 145 v -30 z"
-         id="path6092-3-3" />
+         id="path6092-3-3"
+         style="fill:#222226;fill-opacity:1" />
     </g>
     <g
        id="decoration-inactive-left"
@@ -553,7 +559,8 @@
          class="ColorScheme-HeaderBackground"
          fill="currentColor"
          d="m 320.875,197.01548 v 86 h 29 v -86 z"
-         id="path6339-9-9" />
+         id="path6339-9-9"
+         style="fill:#222226;fill-opacity:1" />
     </g>
     <g
        transform="translate(-385,-4.000015)"
@@ -639,7 +646,8 @@
          id="path1023"
          class="ColorScheme-HeaderBackground"
          fill="currentColor"
-         d="m 442,201.0625 c 6.648,0 12,5.352 12,12 v 18 h -29 v -30 z" />
+         d="m 442,201.0625 c 6.648,0 12,5.352 12,12 v 18 h -29 v -30 z"
+         style="fill:#2e2e32;fill-opacity:1" />
       <path
          id="path187"
          style="opacity:0.75;fill:#404040;fill-opacity:1;stroke:none"
