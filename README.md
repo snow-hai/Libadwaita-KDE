@@ -40,8 +40,6 @@ This is a work in progress, install scripts, and further things will be added in
 <img src="Assets/kcolor-dark.png" alt="Dark ColorScheme">
 </p>
 
-Based on [Libadw Compilation](https://www.pling.com/p/2175326/)
-
 ### Main colour support
 - [x] Dark
 - [x] Light
@@ -125,7 +123,7 @@ I didnt do much on this except swap out a few files.
   <img src="Assets/fcitx5-dark.png" alt="Dark Fcitx5 Theme">
   <img src="Assets/fcitx5-light.png" alt="Light Fcitx5 Theme">
 </p>
-Not really based on anything.
+Based on [fcitx5-mellow-themes](https://github.com/sanweiya/fcitx5-mellow-themes)
  
 ### Main colorour support
 - [x] Light
