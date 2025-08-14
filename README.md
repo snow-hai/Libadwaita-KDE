@@ -22,10 +22,10 @@ This is a work in progress, install scripts, and further things will be added in
 ---
 
 ## To Do
-- [ ] KColorSchemes (needs corrections)*
+- [x] KColorSchemes
 - [ ] Aurorae (needs corrections)*
 - [x] Kvantum theme 
-- [ ] Plasma Style (needs corrections)*
+- [ ] Plasma Style (needs corrections in looks)
 - [x] Fcitx5 Theme <br> <br>
 \* libadwaita colors have slightly changed, themes will need adjusting.
 ---
@@ -55,6 +55,8 @@ Based on [Libadw Compilation](https://www.pling.com/p/2175326/)
 - [x] Pink
 - [x] Purple
 - [x] Grey
+
+**Notes:** ``./build.sh [light | dark] [accent] [--install (optional)]`
 
 ---
 
