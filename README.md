@@ -23,11 +23,11 @@ This is a work in progress, install scripts, and further things will be added in
 
 ## To Do
 - [x] KColorSchemes
-- [ ] Aurorae (needs corrections)*
+- [x] Aurorae
 - [x] Kvantum theme 
 - [ ] Plasma Style (needs corrections in looks)
-- [x] Fcitx5 Theme <br> <br>
-\* libadwaita colors have slightly changed, themes will need adjusting.
+- [x] Fcitx5 Theme
+
 ---
 
 ### General Notes
