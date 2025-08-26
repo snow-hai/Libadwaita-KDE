@@ -135,9 +135,8 @@ export built_colors=$(sed \
 
 if [ -z "$3" ]; then
     exit 0
-else if [ "$3" == "--install" ]; then
+elif [ "$3" == "--install" ]; then
     cp -r "./$build_dir/$build_dir.colors" "$COLOR_DIR/"
     rm -r "./$build_dir/"
     exit 0
-fi
 fi

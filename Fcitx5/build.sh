@@ -71,9 +71,8 @@ cp -r "$BLURMASK" "$build_dir/"
 
 if [ -z "$2" ]; then
     exit 0
-else if [ "$2" == "--install" ]; then
+elif [ "$2" == "--install" ]; then
     cp -r "./$build_dir/" "$FCITX5_CONFIG_DIR/"
     rm -r "./$build_dir/"
     exit 0
-fi
 fi
