@@ -5,7 +5,7 @@ This is a work in progress, install scripts, and further things will be added in
 
 ---
 
-**Repositories:** [GitLab](https://gitlab.com/snow-hai/Libadwaita-KDE) [GitHub](https://github.com/snow-hai/Libadwaita-KDE). These repositories are automaticaly mirrored. However if you want to contribute please do so on the GitLab.
+**Repositories:** [GitLab](https://gitlab.com/wawahai/Libadwaita-KDE) [GitHub](https://github.com/wawahaii/Libadwaita-KDE). These repositories are automaticaly mirrored. However if you want to contribute please do so on the GitLab.
 
 
 ---
