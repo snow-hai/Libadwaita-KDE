@@ -1,22 +1,11 @@
 # Libadwaita KDE 
 
-A attempt at porting the Libadwaita look to KDE/Qt.
+A attempt at porting the Libadwaita look to KDE/Qt. <br>
 This is a work in progress, install scripts, and further things will be added in the future.
 
 ---
 
-### Next Steps
-- Building of the following Themes is planned to be nearly fully automated
-  - KColorSchemes
-  - Kvantum
-  - Fcitx5
-- More accuracy in the Plasma Style
-- Finish all remaining colorschemes/accent colors.
-- *Once above is done* Make a unified install script that runs builds for everything.
-
----
-
-**Repositories:** [GitLab](https://gitlab.com/sabaneko/Libadwaita-KDE) [GitHub](https://github.com/nukusaba/Libadwaita-KDE). These repositories are automaticaly mirrored. However if you want to contribute please do so on the GitLab.
+**Repositories:** [GitLab](https://gitlab.com/snow-hai/Libadwaita-KDE) [GitHub](https://github.com/snow-hai/Libadwaita-KDE). These repositories are automaticaly mirrored. However if you want to contribute please do so on the GitLab.
 
 
 ---
